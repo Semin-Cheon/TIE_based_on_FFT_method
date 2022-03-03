@@ -16,7 +16,7 @@ inverse laplacian using FFT method.
 - Function:
  [ Phase_Retrieval ] = TIE_FFT( dIdz, I0, Wavelength, tikhonov_Para, Threshold_Real, Pixel_Size )
 
-          Input - dIdz: Imagederivate calculated by Overfocus and Underfocus images
+          Input - dIdz: Axial derivate calculated by Overfocus and Underfocus images
            - I0: Onfocus image
            - Wavelength: wavelength of the light source
            - tikhonov_Para: Small constant for two purposes;
