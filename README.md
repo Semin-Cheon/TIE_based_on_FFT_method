@@ -34,13 +34,9 @@ inverse laplacian using FFT method.
            eq:             Div( I0 * Grad(phase) ) = -k * dI/dz
           applied eq:     Div(Grad(phase)) = -k * dI/dz - Grad(I0)
 
-(※ RHS of the eq is on the in-plane region st, operators in 
-the RHS are also in-plane operators)
+(※ RHS of the eq is on the in-plane region st, operators in the RHS are also in-plane operators)
  
-##################### Computational approach #########################
-
+- Computational approach
 Please refer Eq(50) from the paper: C. Zuo, et al, Elsvier. volume 135 (2020).
 
-######################################################################
-Code modified:
-Last modified: 2022/02/15 (Y/M/D) - explanations of the codes are included 
+- Last modified: 2022/02/15 (Y/M/D) - Now explanations of the codes are included 
