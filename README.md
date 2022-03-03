@@ -36,7 +36,8 @@ inverse laplacian using FFT method.
 
 (※ RHS of the eq is on the in-plane region st, operators in the RHS are also in-plane operators)
  
-- Computational approach:
-           - Please refer Eq(50) from the paper: C. Zuo, et al, Elsvier. volume 135 (2020).
+- Computational approach: 
+
+  Please refer Eq(50) from the paper: C. Zuo, et al, Elsvier. volume 135 (2020).
 
 - Last modified: 2022/02/15 (Y/M/D) - Now explanations of the codes are included 
