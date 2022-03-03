@@ -40,4 +40,4 @@ inverse laplacian using FFT method.
 
   Please refer Eq(50) from the paper: C. Zuo, et al, Elsvier. volume 135 (2020).
 
-- Last modified: 2022/02/15 (Y/M/D) - Now explanations of the codes are included 
+- Last modified: 2022/02/15 (Y/M/D) - Explanations in each lines are added
